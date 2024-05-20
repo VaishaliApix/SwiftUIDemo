@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// there is new changes
 struct ContentView: View {
     
     let arr = ["apple",
